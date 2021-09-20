@@ -33,9 +33,9 @@ h2 {
 }
 
 
-*,:after,:before {
+/* *,:after,:before {
     box-sizing: border-box
-}
+} */
 
 hr {
     margin: 2rem 0rem
