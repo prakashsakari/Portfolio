@@ -1,41 +1,12 @@
-/* body {
-    color: red;
-}
-
-h1 {
-    color: green;
-}
-
-h2 {
-    color: gray
-}
-
-#lib-header {
-    color: blue
-}
-
-.para {
-    color: magenta
-}
-
-.div {
-    color: yellow
-} */
-
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 
 :root {
     --primary-color: #064E3B;
     --dark-gray: #6B7280;
-    --secondary-color:
-        #DC2626;
+    --secondary-color:  #DC2626;
     --off-white: #F3F4F6;
 }
 
-
-/* *,:after,:before {
-    box-sizing: border-box
-} */
 
 hr {
     margin: 2rem 0rem
@@ -54,11 +25,9 @@ body {
     margin: 0px;
 }
 
-/** container **/
 
 .container {
-    /* padding-left: 1rem;
-    padding-right: 1rem; */
+
     padding: 0rem 1rem
 }
 
@@ -137,9 +106,6 @@ body {
     color: var(--dark-gray)
 }
 
-/* .hero .hero-heading .heading-colored {
-    color: var(--primary-color)
-} */
 
 .section {
     padding: 2rem;
